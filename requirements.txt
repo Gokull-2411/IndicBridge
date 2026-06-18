@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+google-generativeai
+groq
+sarvamai
+sounddevice
+soundfile
+scipy
+numpy
+python-dotenv
+pydantic-settings
+requests
